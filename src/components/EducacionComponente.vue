@@ -1,11 +1,10 @@
-<!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
 import { ref } from 'vue';
 const arreglo= ref([
-{id:1, fecha:'2024', titulo:'Tecnico Universitario en Programación', descripcion:'Lorem impsun', enlace:"http"},
-{id:2, fecha:'2023', titulo:'Tecnico de Redes', descripcion:'De esta forma es como se puede crear una linea de tiempo basica una vez echo este modelo podemos ya representarlo en vue',enlace:"http"},
-{id:3, fecha:'2022', titulo:'Tecnico Instalador', descripcion:'Lorem impsun', enlace:"http"},
-])
+{id:1, fecha:'2024', titulo:'Tecnico Universitario en Programación', descripcion:'Lenguaje de Java, Python, JavaScript, VisualStudioCode, PyCharm, NetBeans Git Hub y Git Bash', enlace:"http"},
+{id:2, fecha:'2023', titulo:'Informatica basica', descripcion:'Conocimiento a nivel de usuario de Microsoft Office (Word, Excel, Access y Power Point), Conocimiento avanzado de Adobe Photoshop cs. Cursado en la universidad Santísima Trinidad. Conocimiento avanzado en Autocad.',enlace:"http"},
+{id:3, fecha:'2022', titulo:'Curso de composición fotográfica r', descripcion:'De interiores y exteriores en la universidad Santísima Trinidad', enlace:"http"},
+]);
 </script>
 
 <template>

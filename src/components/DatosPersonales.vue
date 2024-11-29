@@ -2,12 +2,12 @@
 const title = "Yamil D. Rueda";
 const descripcion = "Tecnico Universitario en Programación - UTN";
 
-const presentacion = "Hola, Bienvenido a mi porfolio de proyectos. Soy desarrollador web con experiencia en el desarrollo de aplicacopnes web y moviles.";
+const presentacion = "Hola, Bienvenido a mi porfolio de proyectos. Soy desarrollador web con experiencia en el desarrollo de aplicaciones web y moviles.";
 const redesSociales = [
-    {id: 1, name: 'linkedin',src: '/src/assets/linkedin_icon.svg', URL: 'https://www.linkedin.com/in/yamil-rueda-7b490025a/'},
-    {id: 2, name: 'Instagram',src: '/src/assets/instagram_icon.svg', URL: 'https://www.instagram.com/institutozen?igsh=aDV3YXd1d3BtZWF5'},
-    {id: 3, name: 'github',src: '/src/assets/github_icon.svg', URL: 'https://github.com/fenixnodavid'},
-    {id: 4, name: 'curriculum',src: '/src/assets/cv_resume_icon.svg', URL: ''},
+    {id:1, name: 'linkedin',src: '/src/assets/linkedin_icon.svg', URL: 'https://www.linkedin.com/in/yamil-rueda-7b490025a/'},
+    {id:2, name: 'Instagram',src: '/src/assets/instagram_icon.svg', URL: 'https://www.instagram.com/institutozen?igsh=aDV3YXd1d3BtZWF5'},
+    {id:3, name: 'github',src: '/src/assets/github_icon.svg', URL: 'https://github.com/fenixnodavid'},
+    {id:4, name: 'curriculum',src: '/src/assets/cv_resume_icon.svg', URL: 'https://drive.google.com/file/d/1e3vGl8Z6wlS4tMVaZ5Rc4mCXW7johYlH/view?usp=sharing'},
 ];
 
 </script>
